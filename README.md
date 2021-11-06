@@ -17,6 +17,7 @@ A few items of note when reviewing the provided data:
 
 ## Results
 - Outcomes for Kickstarter Playes Based On Goals
-- 
+![](Theater Outcomes Based on Launch Date.png)
+  - The best month for starting a campaign was May  
 
 * This project was practice work using a data set as part of the Data Analytics Bootcamp at Rice University
